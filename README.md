@@ -138,7 +138,7 @@ For a list of general administration information (note that this list is not int
 7. nondiscrimination & nonharrasment,
 
 (each section contains a number of sub-sections and is not meant to beexhaustive of all situations)
-see my administrative information document:
+see my administrative information document:  
 [*Additional Administrative Information*](https://docs.google.com/document/d/1NTerBXVow4rFbZGEpWJKpkpA9DpyOSAfjzJ4FKhf0FU/).
 
 Changelog:
