@@ -18,17 +18,23 @@ tool. We should expect to do much reading and research, much practicing,
 and much discussion of the topics we cover in class and in the
 coursework.
 
+---
+
 ### 1. LBCC catalog course description, including pre-requisites/co-requisites:
 
 Introduces functional organization and architecture of digital computers. Topics include digital logic; machine arithmetic and logical functions; component construction and interconnections. Coverage of assembly language: addressing, stacks, argument passing, arithmetic operations, decisions, and modularization is also provided.
 
 Prerequisites: CS 161 Introduction to Computer Science I with a grade of \"C\" or better.
 
+---
+
 ### 2. Class Time-space:
 
     1.  **Note: This class is delivered in a flexible format (you will not need to attend live sessions).**
 
     2.  Lecture + demo: MW 1400 -- 1550, flexible, see Moodle for details
+
+---
 
 ### 3. Measurable student learning outcomes:
 
@@ -39,6 +45,8 @@ On completion of this course, students will be able to:
     4.  Demonstrate knowledge of machine arithmetic operations.
     5.  Demonstrate knowledge of system structures and devices.
     6.  Write a simple program in machine language.
+
+---
 
 ### 4. Learning resources:
 
@@ -55,6 +63,8 @@ On completion of this course, students will be able to:
         2.  We will discuss some capabilities of smart code editors during the course.
 
     3. (**strongly recommended**) A desire to learn, experiment, design, test, and problem solve with code (both on and off of a computer).
+
+---
 
 ### 5. Grading:
 
@@ -121,6 +131,8 @@ On completion of this course, students will be able to:
         > 00-59%: F
 
     6. Reminder: A passing grade in order to count for course requirements for CS classes is generally a C or above.
+
+---
 
 ### 6. Other Administrative Information:
 
