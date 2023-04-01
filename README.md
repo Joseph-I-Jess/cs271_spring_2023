@@ -49,14 +49,14 @@ On completion of this course, students will be able to:
 ### 4. Learning resources:
 
 1.  **Note:** All class materials and storage will be freely available in a digital format
-2.  *The Elements of Computing Systems*
-    Authors: Noam Nisan and Shimon Schocken
-    ISBN-13: 978-0-262-64068-8
-    Publisher: MIT Press
-    **(Note: the book chapters are freely available online and shared in my course materials)**
-    1.  I recommend the IDE **VSCode**; most editors would be fine.
-    2.  We will discuss some capabilities of smart code editors during the course.
-3. (**strongly recommended**) A desire to learn, experiment, design, test, and problem solve with code (both on and off of a computer).
+2.  *The Elements of Computing Systems*  
+    Authors: Noam Nisan and Shimon Schocken  
+    ISBN-13: 978-0-262-64068-8  
+    Publisher: MIT Press  
+    **(Note: the book chapters are freely available online and shared in my course materials)**  
+3.  I recommend the IDE **VSCode**; most editors would be fine.
+4.  We will discuss some capabilities of smart code editors during the course.
+5. (**strongly recommended**) A desire to learn, experiment, design, test, and problem solve with code (both on and off of a computer).
 
 ---
 
@@ -123,14 +123,14 @@ On completion of this course, students will be able to:
 
 ### 6. Other Administrative Information:
 
-1. For a list of general administration information (note that this list is not intended to be exhaustive), such as:
-    1.  contacting me,
-    2.  accessibility resources,
-    3.  expectations of student conduct,
-    4. communications,
-    5. student assistance,
-    6. miscellany,
-    7. nondiscrimination & nonharrasment,
+For a list of general administration information (note that this list is not intended to be exhaustive), such as:
+1.  contacting me,
+2.  accessibility resources,
+3.  expectations of student conduct,
+4. communications,
+5. student assistance,
+6. miscellany,
+7. nondiscrimination & nonharrasment,
 
 (each section contains a number of sub-sections and is not meant to beexhaustive of all situations)
 see my administrative information document:
