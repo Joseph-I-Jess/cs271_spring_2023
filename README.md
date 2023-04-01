@@ -29,40 +29,34 @@ Prerequisites: CS 161 Introduction to Computer Science I with a grade of \"C\" o
 ---
 
 ### 2. Class Time-space:
-
-    1.  **Note: This class is delivered in a flexible format (you will not need to attend live sessions).**
-
-    2.  Lecture + demo: MW 1400 -- 1550, flexible, see Moodle for details
+1.  **Note: This class is delivered in a flexible format (you will not need to attend live sessions).**
+2.  Lecture + demo: MW 1400 -- 1550, flexible, see Moodle for details
 
 ---
 
 ### 3. Measurable student learning outcomes:
 
 On completion of this course, students will be able to:
-    1.  Understand basic computer organization.
-    2.  Understand basic computer architecture.
-    3.  Demonstrate knowledge of digital logic.
-    4.  Demonstrate knowledge of machine arithmetic operations.
-    5.  Demonstrate knowledge of system structures and devices.
-    6.  Write a simple program in machine language.
+1.  Understand basic computer organization.
+2.  Understand basic computer architecture.
+3.  Demonstrate knowledge of digital logic.
+4.  Demonstrate knowledge of machine arithmetic operations.
+5.  Demonstrate knowledge of system structures and devices.
+6.  Write a simple program in machine language.
 
 ---
 
 ### 4. Learning resources:
 
-    1.  **Note:** All class materials and storage will be freely available in a digital format
-
-    2.  *The Elements of Computing Systems*
-        Authors: Noam Nisan and Shimon Schocken
-        ISBN-13: 978-0-262-64068-8
-        Publisher: MIT Press
-        **(Note: the book chapters are freely available online and shared in my course materials)**
-
-        1.  I recommend the IDE **VSCode**; most editors would be fine.
-
-        2.  We will discuss some capabilities of smart code editors during the course.
-
-    3. (**strongly recommended**) A desire to learn, experiment, design, test, and problem solve with code (both on and off of a computer).
+1.  **Note:** All class materials and storage will be freely available in a digital format
+2.  *The Elements of Computing Systems*
+    Authors: Noam Nisan and Shimon Schocken
+    ISBN-13: 978-0-262-64068-8
+    Publisher: MIT Press
+    **(Note: the book chapters are freely available online and shared in my course materials)**
+    1.  I recommend the IDE **VSCode**; most editors would be fine.
+    2.  We will discuss some capabilities of smart code editors during the course.
+3. (**strongly recommended**) A desire to learn, experiment, design, test, and problem solve with code (both on and off of a computer).
 
 ---
 
