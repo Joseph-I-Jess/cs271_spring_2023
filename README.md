@@ -72,29 +72,35 @@ On completion of this course, students will be able to:
             20 Solution well thought out  
             10 Solution partially planned out  
             0 ad hoc solution; program was "designed at the keyboard" or no design submitted
+            
         2.  **Program Execution** (20%)  
             **Rating Criteria**  
             20 Program runs very well under a variety of conditions, as submitted  
             10 Program runs much of the time, may be missing required files or instructions for libraries used  
             0 Program runs very poorly, not at all, or requires several modifications or files before it runs  
+            
         3.  **Specification Satisfaction** (20%)  
             **Rating Criteria**  
             20 Program satisfies specification completely and correctly  
             10 Important parts of the specification not implemented  
             0 Program poorly satisfies specification, or not at all  
+            
         4.  **Coding Style** (20%)  
             **Rating Criteria**  
             20 Well-formatted, understandable code and appropriate use of language capabilities  
             10 Code difficult to follow in one reading or poor use of language capabilities  
             0 Incomprehensible code, poor use of language capabilities, or a need to scroll up and down repeatedly  
+            
         5.  **Comments and Documentation** (20%)  
             **Rating Criteria**  
             20 Concise, meaningful, and well-formatted comments and docstrings  
             10 Partial, poorly written, or poorly formatted comments  
             0 Wordy, unnecessary, incorrect, badly written or formatted, or none or nearly no comments
+            
     2.  **Final**: Final project design and final project implementation -- 50%
         1.  There will be a final project to test the overall ability to understand, design, implement, test, and reflect on the problem solving and programming knowledge and skills covered in the class.
-        2.  The final project will be a mix of "in-class" (initial design, testing, and implementation discussion) and take-home (finalizing design, testing, and implementation) elements.
+        
+        3.  The final project will be a mix of "in-class" (initial design, testing, and implementation discussion) and take-home (finalizing design, testing, and implementation) elements.
 
 > **Note**: careful design, systematic testing, consistent style, and readability of code are important software quality factors (all of which are subject to interpretation but graded by the instructor based on the spirit and letter of the requirements, so be sure to explain your decisions).
 >
