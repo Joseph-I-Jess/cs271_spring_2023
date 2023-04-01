@@ -68,10 +68,11 @@ On completion of this course, students will be able to:
     1.  **Demonstration**: Discussion, quizzes, and weekly assignments and projects -- 50%
         There are a number of discussion questions (usually turned in as a part of the programming projects), quizzes, and programming projects to be completed for this class, designed to challenge and solidify design, coding, and testing skills. Projects are generally graded based on the following rubric:  
         1.  **Program Design** (20%)  
-            |**Rating | Criteria**|
-            |20 | Solution well thought out|
-            |10 | Solution partially planned out|
-            |0 | ad hoc solution; program was "designed at the keyboard" or no design submitted|
+            |**Rating | Criteria**                                                                    |
+            |--------:|-------------------------------------------------------------------------------|
+            |20       | Solution well thought out                                                     |
+            |10       | Solution partially planned out                                                |
+            |0        | ad hoc solution; program was "designed at the keyboard" or no design submitted|
             
         2.  **Program Execution** (20%)  
             **Rating Criteria**  
