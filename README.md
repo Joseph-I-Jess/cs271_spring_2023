@@ -1,11 +1,11 @@
 Last updated 01 April, 2023
 
 ### CS271 -- Computer Architecture/Assembly Language
-    > Spring 2023
-    > CRN: 44747
-    > Credits: 4
-    > Instructor: Joseph Jess
-    > email: [jessj\@linnbenton.edu](mailto:jessj@linnbenton.edu)
+    Spring 2023
+    CRN: 44747
+    Credits: 4
+    Instructor: Joseph Jess
+    email: [jessj\@linnbenton.edu](mailto:jessj@linnbenton.edu)
 
 **Initial class note**: We are ***not*** in an introduction course to
 computer science (CS) anymore, and there will be topics that can be
