@@ -103,13 +103,15 @@ On completion of this course, students will be able to:
 > **Note** **very well**: Source code and related documents submitted must be designed and implemented by the student submitting the work and any code must compile and run on one of the instructor\'s machines in order to be graded. (to create a working program quickly: get it working simply, then add to it; if at some point it stops compiling you will better know where an error was introduced)
 
 4.  **Make-up Work**: I do not care when you learn it, as long as you learn it. To support this idea I allow missing work, even after the term for many, to be made up for in the final project (just be sure I know you are trying to make it up in the final project submission!).
-5.  Final grades will be given out based on the following based on score in the class:\
+
+5.  **Final grades** will be given out based on the following based on score in the class:\
     90-100%: A  
     80-89%: B  
     70-79%: C  
     60-69%: D  
-    00-59%: F  
-6. Reminder: A passing grade in order to count for course requirements for CS classes is generally a C or above.
+    00-59%: F
+
+6. **Reminder**: A passing grade in order to count for course requirements for CS classes is generally a C or above.
 
 ---
 
