@@ -67,31 +67,31 @@ On completion of this course, students will be able to:
 3. To earn a passing grade in this course you must pass each of the following coursework categories:
     1.  **Demonstration**: Discussion, quizzes, and weekly assignments and projects -- 50%
         There are a number of discussion questions (usually turned in as a part of the programming projects), quizzes, and programming projects to be completed for this class, designed to challenge and solidify design, coding, and testing skills. Projects are generally graded based on the following rubric:
-            1.  **Program Design** (20%)\
-                **Rating Criteria**\
-                20 Solution well thought out\
-                10 Solution partially planned out\
-                0 ad hoc solution; program was "designed at the keyboard" or no design submitted
-            2.  **Program Execution** (20%)\
-                **Rating Criteria**\
-                20 Program runs very well under a variety of conditions, as submitted\\
-                10 Program runs much of the time, may be missing required files or instructions for libraries used\
-                0 Program runs very poorly, not at all, or requires several modifications or files before it runs
-            3.  **Specification Satisfaction** (20%)\
-                **Rating Criteria**\
-                20 Program satisfies specification completely and correctly\
-                10 Important parts of the specification not implemented\
-                0 Program poorly satisfies specification, or not at all
-            4.  **Coding Style** (20%)\
-                **Rating Criteria**\
-                20 Well-formatted, understandable code and appropriate use of language capabilities\
-                10 Code difficult to follow in one reading or poor use of language capabilities\
-                0 Incomprehensible code, poor use of language capabilities, or a need to scroll up and down repeatedly
-            5.  **Comments and Documentation** (20%)\
-                **Rating Criteria**\
-                20 Concise, meaningful, and well-formatted comments and docstrings\
-                10 Partial, poorly written, or poorly formatted comments\
-                0 Wordy, unnecessary, incorrect, badly written or formatted, or none or nearly no comments
+        1.  **Program Design** (20%)  
+            **Rating Criteria**  
+            20 Solution well thought out  
+            10 Solution partially planned out  
+            0 ad hoc solution; program was "designed at the keyboard" or no design submitted
+        2.  **Program Execution** (20%)  
+            **Rating Criteria**  
+            20 Program runs very well under a variety of conditions, as submitted  
+            10 Program runs much of the time, may be missing required files or instructions for libraries used  
+            0 Program runs very poorly, not at all, or requires several modifications or files before it runs  
+        3.  **Specification Satisfaction** (20%)  
+            **Rating Criteria**  
+            20 Program satisfies specification completely and correctly  
+            10 Important parts of the specification not implemented  
+            0 Program poorly satisfies specification, or not at all  
+        4.  **Coding Style** (20%)  
+            **Rating Criteria**  
+            20 Well-formatted, understandable code and appropriate use of language capabilities  
+            10 Code difficult to follow in one reading or poor use of language capabilities  
+            0 Incomprehensible code, poor use of language capabilities, or a need to scroll up and down repeatedly  
+        5.  **Comments and Documentation** (20%)  
+            **Rating Criteria**  
+            20 Concise, meaningful, and well-formatted comments and docstrings  
+            10 Partial, poorly written, or poorly formatted comments  
+            0 Wordy, unnecessary, incorrect, badly written or formatted, or none or nearly no comments
 
 > **Note**: careful design, systematic testing, consistent style, and readability of code are important software quality factors (all of which are subject to interpretation but graded by the instructor based on the spirit and letter of the requirements, so be sure to explain your decisions).
 >
