@@ -49,10 +49,10 @@ On completion of this course, students will be able to:
 ### 4. Learning resources:
 
 1.  **Note:** All class materials and storage will be freely available in a digital format
-2.  *The Elements of Computing Systems*  
-    Authors: Noam Nisan and Shimon Schocken  
-    ISBN-13: 978-0-262-64068-8  
-    Publisher: MIT Press  
+2.  ***The Elements of Computing Systems***  
+    **Authors**: Noam Nisan and Shimon Schocken  
+    **ISBN-13**: 978-0-262-64068-8  
+    **Publisher**: MIT Press  
     **(Note: the book chapters are freely available online and shared in my course materials)**  
 3.  I recommend the IDE **VSCode**; most editors would be fine.
 4.  We will discuss some capabilities of smart code editors during the course.
@@ -68,10 +68,10 @@ On completion of this course, students will be able to:
     1.  **Demonstration**: Discussion, quizzes, and weekly assignments and projects -- 50%
         There are a number of discussion questions (usually turned in as a part of the programming projects), quizzes, and programming projects to be completed for this class, designed to challenge and solidify design, coding, and testing skills. Projects are generally graded based on the following rubric:  
         1.  **Program Design** (20%)  
-            **Rating Criteria**  
-            20 Solution well thought out  
-            10 Solution partially planned out  
-            0 ad hoc solution; program was "designed at the keyboard" or no design submitted
+            |**Rating | Criteria**|
+            |20 | Solution well thought out|
+            |10 | Solution partially planned out|
+            |0 | ad hoc solution; program was "designed at the keyboard" or no design submitted|
             
         2.  **Program Execution** (20%)  
             **Rating Criteria**  
