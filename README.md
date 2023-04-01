@@ -49,7 +49,7 @@ On completion of this course, students will be able to:
 ### 4. Learning resources:
 
 1.  **Note:** All class materials and storage will be freely available in a digital format
-2.  ***The Elements of Computing Systems***  
+2.  *The Elements of Computing Systems*  
     **Authors**: Noam Nisan and Shimon Schocken  
     **ISBN-13**: 978-0-262-64068-8  
     **Publisher**: MIT Press  
