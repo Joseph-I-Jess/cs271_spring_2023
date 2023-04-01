@@ -92,6 +92,9 @@ On completion of this course, students will be able to:
             20 Concise, meaningful, and well-formatted comments and docstrings  
             10 Partial, poorly written, or poorly formatted comments  
             0 Wordy, unnecessary, incorrect, badly written or formatted, or none or nearly no comments
+    2.  **Final**: Final project design and final project implementation -- 50%
+        1.  There will be a final project to test the overall ability to understand, design, implement, test, and reflect on the problem solving and programming knowledge and skills covered in the class.
+        2.  The final project will be a mix of "in-class" (initial design, testing, and implementation discussion) and take-home (finalizing design, testing, and implementation) elements.
 
 > **Note**: careful design, systematic testing, consistent style, and readability of code are important software quality factors (all of which are subject to interpretation but graded by the instructor based on the spirit and letter of the requirements, so be sure to explain your decisions).
 >
@@ -99,9 +102,6 @@ On completion of this course, students will be able to:
 >
 > **Note** **very well**: Source code and related documents submitted must be designed and implemented by the student submitting the work and any code must compile and run on one of the instructor\'s machines in order to be graded. (to create a working program quickly: get it working simply, then add to it; if at some point it stops compiling you will better know where an error was introduced)
 
-    2.  **Final**: Final project design and final project implementation -- 50%
-        1.  There will be a final project to test the overall ability to understand, design, implement, test, and reflect on the problem solving and programming knowledge and skills covered in the class.
-        2.  The final project will be a mix of "in-class" (initial design, testing, and implementation discussion) and take-home (finalizing design, testing, and implementation) elements.
 4.  **Make-up Work**: I do not care when you learn it, as long as you learn it. To support this idea I allow missing work, even after the term for many, to be made up for in the final project (just be sure I know you are trying to make it up in the final project submission!).
 5.  Final grades will be given out based on the following based on score in the class:\
     90-100%: A  
