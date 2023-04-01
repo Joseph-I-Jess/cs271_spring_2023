@@ -62,46 +62,36 @@ On completion of this course, students will be able to:
 
 ### 5. Grading:
 
-    1. Scores for assignments will be available when the instructor gets to it... usually within the week of the due date. Grades will be made available through the Moodle gradebook.
-
-    2. Students will be required to turn in all coursework items before 23:59 (Pacific Time Zone) on the date that they are due (generally the first meeting day of the week in my courses)\... though I have an extremely forgiving option for making up for missed work at the end of the term.
-
-    3. To earn a passing grade in this course you must pass each of the following coursework categories:
-
-        1.  **Demonstration**: Discussion, quizzes, and weekly assignments and projects -- 50%
-
-            1.  There are a number of discussion questions (usually turned in as a part of the programming projects), quizzes, and programming projects to be completed for this class, designed to challenge and solidify design, coding, and testing skills.
-                Projects are generally graded based on the following rubric:
-
-                A.  **Program Design** (20%)
-                    **Rating Criteria**
-                    20 Solution well thought out
-                    10 Solution partially planned out
-                    0 ad hoc solution; program was "designed at the keyboard" or no design submitted
-
-                B.  **Program Execution** (20%)
-                    **Rating Criteria**
-                    20 Program runs very well under a variety of conditions, as submitted\
-                    10 Program runs much of the time, may be missing required files or instructions for libraries used\
-                    0 Program runs very poorly, not at all, or requires several modifications or files before it runs
-
-                C.  **Specification Satisfaction** (20%)
-                    **Rating Criteria**
-                    20 Program satisfies specification completely and correctly
-                    10 Important parts of the specification not implemented
-                    0 Program poorly satisfies specification, or not at all
-
-                D.  **Coding Style** (20%)
-                    **Rating Criteria**
-                    20 Well-formatted, understandable code and appropriate use of language capabilities
-                    10 Code difficult to follow in one reading or poor use of language capabilities
-                    0 Incomprehensible code, poor use of language capabilities, or a need to scroll up and down repeatedly
-
-                E.  **Comments and Documentation** (20%)
-                    **Rating Criteria**
-                    20 Concise, meaningful, and well-formatted comments and docstrings
-                    10 Partial, poorly written, or poorly formatted comments
-                    0 Wordy, unnecessary, incorrect, badly written or formatted, or none or nearly no comments
+1. Scores for assignments will be available when the instructor gets to it... usually within the week of the due date. Grades will be made available through the Moodle gradebook.
+2. Students will be required to turn in all coursework items before 23:59 (Pacific Time Zone) on the date that they are due (generally the first meeting day of the week in my courses)\... though I have an extremely forgiving option for making up for missed work at the end of the term.
+3. To earn a passing grade in this course you must pass each of the following coursework categories:
+    1.  **Demonstration**: Discussion, quizzes, and weekly assignments and projects -- 50%
+        1.  There are a number of discussion questions (usually turned in as a part of the programming projects), quizzes, and programming projects to be completed for this class, designed to challenge and solidify design, coding, and testing skills. Projects are generally graded based on the following rubric:
+            A.  **Program Design** (20%)
+                **Rating Criteria**
+                20 Solution well thought out
+                10 Solution partially planned out
+                0 ad hoc solution; program was "designed at the keyboard" or no design submitted
+            B.  **Program Execution** (20%)
+                **Rating Criteria**
+                20 Program runs very well under a variety of conditions, as submitted\
+                10 Program runs much of the time, may be missing required files or instructions for libraries used\
+                0 Program runs very poorly, not at all, or requires several modifications or files before it runs
+            C.  **Specification Satisfaction** (20%)
+                **Rating Criteria**
+                20 Program satisfies specification completely and correctly
+                10 Important parts of the specification not implemented
+                0 Program poorly satisfies specification, or not at all
+            D.  **Coding Style** (20%)
+                **Rating Criteria**
+                20 Well-formatted, understandable code and appropriate use of language capabilities
+                10 Code difficult to follow in one reading or poor use of language capabilities
+                0 Incomprehensible code, poor use of language capabilities, or a need to scroll up and down repeatedly
+            E.  **Comments and Documentation** (20%)
+                **Rating Criteria**
+                20 Concise, meaningful, and well-formatted comments and docstrings
+                10 Partial, poorly written, or poorly formatted comments
+                0 Wordy, unnecessary, incorrect, badly written or formatted, or none or nearly no comments
 
 > **Note**: careful design, systematic testing, consistent style, and readability of code are important software quality factors (all of which are subject to interpretation but graded by the instructor based on the spirit and letter of the requirements, so be sure to explain your decisions).
 >
@@ -110,38 +100,34 @@ On completion of this course, students will be able to:
 > **Note** **very well**: Source code and related documents submitted must be designed and implemented by the student submitting the work and any code must compile and run on one of the instructor\'s machines in order to be graded. (to create a working program quickly: get it working simply, then add to it; if at some point it stops compiling you will better know where an error was introduced)
 
         2.  **Final**: Final project design and final project implementation -- 50%
-
             1.  There will be a final project to test the overall ability to understand, design, implement, test, and reflect on the problem solving and programming knowledge and skills covered in the class.
-
             2.  The final project will be a mix of "in-class" (initial design, testing, and implementation discussion) and take-home (finalizing design, testing, and implementation) elements.
-
     4.  **Make-up Work**: I do not care when you learn it, as long as you learn it. To support this idea I allow missing work, even after the term for many, to be made up for in the final project (just be sure I know you are trying to make it up in the final project submission!).
-
     5.  Final grades will be given out based on the following based on score in the class:\
-        > 90-100%: A\
-        > 80-89%: B\
-        > 70-79%: C\
-        > 60-69%: D\
-        > 00-59%: F
-
+        90-100%: A
+        80-89%: B
+        70-79%: C
+        60-69%: D
+        00-59%: F
     6. Reminder: A passing grade in order to count for course requirements for CS classes is generally a C or above.
 
 ---
 
 ### 6. Other Administrative Information:
 
-    1. For a list of general administration information (note that this list is not intended to be exhaustive), such as:
-        1.  contacting me,
-        2.  accessibility resources,
-        3.  expectations of student conduct,
-        4. communications,
-        5. student assistance,
-        6. miscellany,
-        7. nondiscrimination & nonharrasment,
+1. For a list of general administration information (note that this list is not intended to be exhaustive), such as:
+    1.  contacting me,
+    2.  accessibility resources,
+    3.  expectations of student conduct,
+    4. communications,
+    5. student assistance,
+    6. miscellany,
+    7. nondiscrimination & nonharrasment,
 
 (each section contains a number of sub-sections and is not meant to beexhaustive of all situations)
 see my administrative information document:
 *administrative\_information*(https://docs.google.com/document/d/1NTerBXVow4rFbZGEpWJKpkpA9DpyOSAfjzJ4FKhf0FU/).
+
 Changelog:
 1.  31 December, 2020, v1.0.0: initial release
 2.  01 April, 2023, v1.0.1: markdown for GitHub viewing
